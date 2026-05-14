@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/e0c55be2-d7a6-46e3-9086-9ebd84268180
+
 # UI Website Designs ✨
 
 This repository contains two simple UI website landing page designs built using HTML5 and CSS.
@@ -19,10 +19,8 @@ https://github.com/user-attachments/assets/c9c0bad1-9418-4f11-85c6-9bef67981ee7
 <br>
 ### Design 2 - ConsoliAds
 A modern landing page UI design for a marketing/advertising concept. <br>
-Video Demo : https://github.com/user-attachments/assets/afd556e6-786d-4031-b6dd-911be56ae0af
-
-
-<img width="948" height="427" alt="image" src="https://github.com/user-attachments/assets/34819478-a927-4ec0-84ac-cce7e5564037" />
+Video Demo : 
+https://github.com/user-attachments/assets/e0c55be2-d7a6-46e3-9086-9ebd84268180
 
 
 ## 🛠️ Technologies Used
