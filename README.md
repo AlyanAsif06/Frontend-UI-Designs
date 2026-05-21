@@ -2,7 +2,7 @@
 
 # UI Website Designs ✨
 
-This repository contains two simple UI website landing page designs built using HTML5 and CSS.
+This repository contains two simple UI website landing page designs built using purely HTML5 and CSS for grasping deep concepts.
 
 ## 📁 Projects
 ### 🏢 Design 1 - Ideal Solutions  
